@@ -32,6 +32,7 @@ function App() {
     }
   };
 
+  // react router dom blah blah github check
   return (
     <>
       <Router>
